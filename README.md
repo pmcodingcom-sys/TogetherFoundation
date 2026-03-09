@@ -1,1 +1,1 @@
-# TogetderFoundation
+# TogetherFoundation
